@@ -7,12 +7,12 @@ Chào mừng bạn đến với mã nguồn trang Portfolio cá nhân của tôi
 ## 👨‍💻 Giới thiệu sơ lược
 Tôi là **Cao Huỳnh Minh Quân**, sinh viên năm 3 chuyên ngành Công nghệ thông tin tại Đại học Sư phạm TP.HCM. Tôi tập trung vào việc xây dựng các API mạnh mẽ, thiết kế cơ sở dữ liệu tối ưu và tích hợp tính năng thời gian thực với hệ sinh thái **.NET**.
 
-## 🛠 Công nghệ sử dụng (Tech Stack)
-Trang Portfolio này được tôi phát triển hoàn toàn từ con số không (from scratch), không phụ thuộc vào các thư viện UI nặng nề nhằm tối ưu hóa tốc độ tải trang và thể hiện khả năng kiểm soát mã nguồn:
+## 🛠 Công nghệ sử dụng
+Trang Portfolio này được tôi phát triển hoàn toàn từ con số không, không phụ thuộc vào các thư viện UI nặng nề nhằm tối ưu hóa tốc độ tải trang và thể hiện khả năng kiểm soát mã nguồn:
 
 * **HTML5:** Cấu trúc Semantic rõ ràng, tích hợp giao diện giả lập Terminal.
-* **CSS3:** Sử dụng Flexbox/Grid, biến CSS (CSS Variables) để quản lý màu sắc Dark Theme (Navy - Cyan), và các hiệu ứng animation mượt mà.
-* **Vanilla JavaScript:** Xử lý logic tính toán tọa độ để tạo hiệu ứng hiển thị dần (Fade-up) khi cuộn trang.
+* **CSS3:** Sử dụng Flexbox/Grid, biến CSS để quản lý màu sắc Dark Theme, và các hiệu ứng animation mượt mà.
+* **Vanilla JavaScript:** Xử lý logic tính toán tọa độ để tạo hiệu ứng hiển thị dần khi cuộn trang.
 * **Hosting:** Triển khai tự động thông qua GitHub Pages.
 
 ## 📂 Cấu trúc thư mục
@@ -23,19 +23,19 @@ Trang Portfolio này được tôi phát triển hoàn toàn từ con số khôn
  ┗ 📜 README.md (Tài liệu đặc tả dự án)
 ```
 
-## 🚀 Các dự án nổi bật (Featured Projects)
+## 🚀 Các dự án nổi bật
 
 Bạn có thể xem trực tiếp mã nguồn của các dự án Backend mà tôi đang thực hiện thông qua các liên kết dưới đây:
 
 ### 1. Hệ thống Quản lý học liệu & Review
 
-* **Đồ án cá nhân (Solo)**
+* **Đồ án cá nhân**
 * **Công nghệ:** ASP.NET Core 8.0 MVC, SignalR, SQL Server, Entity Framework.
 * **Link:** [https://github.com/Wuanzz/Hoc-Lieu-Va-Review-Demooo.git](https://github.com/Wuanzz/Hoc-Lieu-Va-Review-Demooo.git)
 
 ### 2. BookStore Management
 
-* **Dự án nhóm (Team)**
+* **Dự án nhóm**
 * **Công nghệ:** HTML/CSS/JS, MySQL, Database Design.
 * **Link:** [https://github.com/vuthetam/BookStore.git](https://github.com/vuthetam/BookStore.git)
 
